@@ -1,3 +1,4 @@
 deneme 123
 başka bir satır ekliyorum
-diger bir satir
+bu gitti baska geldi
+son bir satir ekledim
